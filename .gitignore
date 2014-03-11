@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+build/
+local.properties
+**/build/
+**/gen/
+*.iml
+bin/
+gen/
+*.DS_Store
+.idea/
