@@ -2,8 +2,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="org.deebtraj.shorts.activities.MainActivity" >
     
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
+    <item android:id="@+id/menu_add"
+        android:title="Add Reason"
+        android:icon="@drawable/ic_action_new"
         android:orderInCategory="100"
-        android:showAsAction="never" />
+        android:showAsAction="never"
+        android:visible="false"/>
 </menu>
